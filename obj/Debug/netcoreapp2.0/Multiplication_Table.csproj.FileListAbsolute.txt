@@ -1,0 +1,10 @@
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Multiplication_Table/obj/Debug/netcoreapp2.0/Multiplication_Table.csproj.CoreCompileInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Multiplication_Table/obj/Debug/netcoreapp2.0/Multiplication_Table.AssemblyInfoInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Multiplication_Table/obj/Debug/netcoreapp2.0/Multiplication_Table.AssemblyInfo.cs
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Multiplication_Table/bin/Debug/netcoreapp2.0/Multiplication_Table.deps.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Multiplication_Table/bin/Debug/netcoreapp2.0/Multiplication_Table.runtimeconfig.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Multiplication_Table/bin/Debug/netcoreapp2.0/Multiplication_Table.runtimeconfig.dev.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Multiplication_Table/bin/Debug/netcoreapp2.0/Multiplication_Table.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Multiplication_Table/bin/Debug/netcoreapp2.0/Multiplication_Table.pdb
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Multiplication_Table/obj/Debug/netcoreapp2.0/Multiplication_Table.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Multiplication_Table/obj/Debug/netcoreapp2.0/Multiplication_Table.pdb
